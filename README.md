@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 -->
 - How to reach me: dylanturing@protonmail.com
-- My ideas and writings: dylanz.me
+- My ideas and writings: https://dylanz.me
